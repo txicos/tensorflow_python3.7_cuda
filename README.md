@@ -4,13 +4,14 @@ The purpose of this page is to provide a tensorflow 2.2 wheel package to be
 
 used with python3.7 and CUDA 10.2.
 
-download and install as:
+download (requires git lfs) and install as:
 
-`sudo pip3.7 install tensorflow-2.2.0rc2-cp37-cp37m-linux_x86_64.whl `
+
+    git clone git@github.com:txicos/tensorflow_python3.7_cuda.git
+    sudo pip3.7 install tensorflow-2.2.0rc2-cp37-cp37m-linux_x86_64.whl
+
 
 consider, also, reading [officil tensorflow pip installation](https://www.tensorflow.org/install/pip)
-
-
 
 
 
